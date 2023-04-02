@@ -56,5 +56,12 @@
 *://*.msn.com/*
 *://*.haber46.com.tr/*
 
+*://*.anatolianhaber.com/*
+*://*.haber365.com.tr/*
+*://*.bursadabugun.com/*
+*://*.vnexplorer.net/*
+*://*.www.mansetizmir.com/*
+
 #scam
 *://*.ldplayer.tw/*
+*://*.videoindirxa.net/*
