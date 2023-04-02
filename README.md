@@ -9,5 +9,5 @@ Bu Ublacklist filtresi arama motoru sonuçlarından haber sitelerini kaldırır.
 
 2. Uzantı ayarlarını açıp "add a subscription" tıklayın  
 
-3. Name kısmına: `Mein-Ublacklist-TR`, URL kısmına alttaki adresi ekleyin  
+3. Name kısmına: `Mein-Ublacklist-TR`, URL kısmına alttaki adresi ekleyin:
 `https://raw.githubusercontent.com/archi-dagac/Mein-Ublacklist-TR/main/list.txt`
