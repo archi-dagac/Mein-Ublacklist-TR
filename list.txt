@@ -53,5 +53,8 @@
 *://*.haberet.com/*
 *://*.gazetevatan.com/*
 
+*://*.msn.com/*
+*://*.haber46.com.tr/*
+
 #scam
 *://*.ldplayer.tw/*
