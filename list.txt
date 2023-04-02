@@ -46,4 +46,12 @@
 *://*.yenicaggazetesi.com.tr/*
 *://*.halktv.com.tr/*
 
+#trthaber
+*://*.trthaber.com/*
 
+*://*.aydinlik.com.tr/*
+*://*.haberet.com/*
+*://*.gazetevatan.com/*
+
+#scam
+*://*.ldplayer.tw/*
