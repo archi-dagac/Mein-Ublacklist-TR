@@ -6,7 +6,7 @@
 *://vivg.chiaraluisetto.it/*
 
 # Haber siteleri
-#*://*.odatv4.com/*
+*://*.odatv4.com/*
 *://*.haberturk.com/*
 *://*.milliyet.com.tr/*
 *://*.sabah.com.tr/*
@@ -17,23 +17,25 @@
 *://*.fanatik.com.tr/*
 *://*.haberler.com/*
 *://*.fotomac.com.tr/*
-#*://*.sozcu.com.tr/*
+*://*.sozcu.com.tr/*
 *://*.ntv.com.tr/*
 *://*.ahaber.com.tr/*
 *://*.tgrthaber.com.tr/*
 *://*.takvim.com.tr/*
 *://*.t24.com.tr/*
-#*://*.cumhuriyet.com.tr/*
-#*://*.dw.com/*
-#*://*.birgun.net/*
+*://*.cumhuriyet.com.tr/*
+*://*.dw.com/*
+*://*.birgun.net/*
 *://*.ensonhaber.com/*
 *://*.yenisafak.com/*
 *://*.aspor.com.tr/*
 
+#archi-dagac added:
 *://*.turkiyegazetesi.com.tr/*
 *://*.star.com.tr/*
 *://*.haber7.com/*
 *://*.tv100.com/*
 *://*.internethaber.com/*
 *://*.superhaber.com/*
-
+*://*.karar.com/*
+*://*.sporx.com/*
