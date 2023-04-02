@@ -43,7 +43,7 @@
 *://*.posta.com.tr/*
 *://*.haber3.com/*
 *://*.aksam.com.tr/*
-*://*.www.yenicaggazetesi.com.tr/*
+*://*.yenicaggazetesi.com.tr/*
 *://*.halktv.com.tr/*
 
 
